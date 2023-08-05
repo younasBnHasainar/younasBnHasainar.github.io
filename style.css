@@ -72,7 +72,7 @@ nav{
 
 .about, .notes, .references{
     font-family: 'IBM Plex Serif', serif;
-    padding: 40px;
+    padding: 5%;
     max-width: 900px;
 }
 h3{
